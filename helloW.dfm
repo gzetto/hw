@@ -24,4 +24,11 @@ object Form1: TForm1
     Font.Style = []
     ParentFont = False
   end
+  object Label2: TLabel
+    Left = 24
+    Top = 73
+    Width = 34
+    Height = 15
+    Caption = 'Label2'
+  end
 end
