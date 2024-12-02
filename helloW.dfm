@@ -30,12 +30,24 @@ object Form1: TForm1
     Width = 34
     Height = 15
     Caption = 'Label2'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clFuchsia
+    Font.Height = -12
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
   end
   object Label3: TLabel
-    Left = 184
-    Top = 72
+    Left = 250
+    Top = 73
     Width = 34
     Height = 15
     Caption = 'Label3'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clGreen
+    Font.Height = -12
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
   end
 end
