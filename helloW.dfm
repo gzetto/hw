@@ -50,4 +50,17 @@ object Form1: TForm1
     Font.Style = []
     ParentFont = False
   end
+  object Label4: TLabel
+    Left = 136
+    Top = 3
+    Width = 37
+    Height = 15
+    Caption = 'Label4'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clBlue
+    Font.Height = -12
+    Font.Name = 'Segoe UI'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+  end
 end
